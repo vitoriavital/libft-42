@@ -6,7 +6,7 @@
 /*   By: mavitori <mavitori@student.42sp.org.br>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/10/10 14:52:44 by mavitori          #+#    #+#             */
-/*   Updated: 2023/10/20 16:22:32 by mavitori         ###   ########.fr       */
+/*   Updated: 2023/11/05 15:17:18 by mavitori         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -15,7 +15,7 @@ char	*ft_strchr(const char *s, int c)
 	int	i;
 
 	i = 0;
-	c = c % 256;
+	c = c % 128;
 	if (c >= 0 && c <= 127)
 	{
 		while (s[i] && s[i] != c)
