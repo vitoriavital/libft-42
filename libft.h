@@ -6,14 +6,13 @@
 /*   By: mavitori <mavitori@student.42sp.org.br>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/10/10 11:36:27 by mavitori          #+#    #+#             */
-/*   Updated: 2023/10/26 15:13:57 by mavitori         ###   ########.fr       */
+/*   Updated: 2023/11/05 15:10:57 by mavitori         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #ifndef LIBFT_H
 # define LIBFT_H
 
-# include <stddef.h>
 # include <stdlib.h>
 # include <unistd.h>
 
@@ -58,7 +57,7 @@ typedef struct s_list
 	void			*content;
 	struct s_list	*next;
 }					t_list;
-// functions
+// bonus functions
 t_list				*ft_lstnew(void *content);
 void				ft_lstadd_front(t_list **lst, t_list *new);
 int					ft_lstsize(t_list *lst);
