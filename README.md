@@ -1,9 +1,6 @@
 # Libft Project
 
-| Libft              | Libftm Achievement                                  |
-| ------------------ | --------------------------------------------------- |
-|                    | ![Libftm Achievement](https://game.42sp.org.br/static/assets/achievements/libftm.png) |
-
+![Libftm Achievement](https://game.42sp.org.br/static/assets/achievements/libftm.png)
 
 ## Introduction
 
