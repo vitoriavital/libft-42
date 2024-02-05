@@ -1,7 +1,7 @@
 # Libft Project
 
 <p align="center">
-  <img src="https://game.42sp.org.br/static/assets/achievements/libftm.png" alt="Achievement Image"><br>
+  <img src="https://game.42sp.org.br/static/assets/achievements/libftm.png" alt="Libftm Achievement"><br>
 </p>
 
 ## Introduction
