@@ -1,13 +1,9 @@
 # Libft Project
 
-<div style="display: flex; justify-content: space-between;">
-  <div style="width: 48%;">
-    <h2>Libft</h2>
-  </div>
-  <div style="width: 48%;">
-    <img src="https://game.42sp.org.br/static/assets/achievements/libftm.png" alt="Libftm Achievement" width="100%"/>
-  </div>
-</div>
+| Libft              | Libftm Achievement                                  |
+| ------------------ | --------------------------------------------------- |
+|                    | ![Libftm Achievement](https://game.42sp.org.br/static/assets/achievements/libftm.png) |
+
 
 ## Introduction
 
