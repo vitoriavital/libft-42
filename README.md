@@ -37,3 +37,6 @@ To build the library, run the following commands:
 
 ```bash
 make
+```
+
+This command will generate a static library file with a .a extension. A static library is a collection of object files that are combined into a single file. The .a file contains precompiled versions of functions and code that your project can link to during the compilation process.
