@@ -1,9 +1,9 @@
 # Libft Project
 
 <p align="center">
-  <img src="https://game.42sp.org.br/static/assets/achievements/libftm.png" alt="Libftm Achievement"><br>
+  <img src="https://game.42sp.org.br/static/assets/achievements/libftm.png" alt="Printf Achievement" width="200" height="200">
+  <img src="https://res.cloudinary.com/dfjub9qt4/image/upload/v1707315356/libft_42.png" alt="Printf Square" width="200" height="200">
 </p>
-
 ## Introduction
 
 The `Libft` project is the first challenge in the École 42's core curriculum. It focus on the development of a highly useful library with 43 functions. This project is an important step in understanding, implementing, and utilizing core functions since it instills those fundamental skills. 
