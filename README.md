@@ -1,7 +1,7 @@
 # Libft Project
 
 <p align="center">
-  <img src="https://game.42sp.org.br/static/assets/achievements/libftm.png" alt="Printf Achievement" width="200" height="200">
+  <img src="https://github.com/ayogun/42-project-badges/raw/main/badges/libftm.png" alt="Libft Achievement" width="200" height="200">
   <img src="https://res.cloudinary.com/dfjub9qt4/image/upload/v1707315356/libft_42.png" alt="Printf Square" width="200" height="200">
 </p>
 ## Introduction
